@@ -83,12 +83,12 @@ button, input, select, textarea {
 }
 
 a {
-    color: #337ab7;
+    color: #000;
     text-decoration: none
 }
 
 a:focus, a:hover {
-    color: #23527c;
+    color: #231E3D;
     text-decoration: underline
 }
 img {
