@@ -33,7 +33,7 @@ a:hover {
     width: 100%;
     clear: both;
     background: 50% 50% no-repeat;
-    padding: 0 50px;
+    /* padding: 0 50px; */
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -471,15 +471,15 @@ button {
 .panel-rd .panel-footer {
     border-radius: 0 0 29px 29px;
 }
-
 .form-control {
-    border-color: rgba(0, 0, 0, .1);
+    border-color: rgba(0, 0, 0, .8);
     box-shadow: none;
+    margin-bottom: 1rem;
 }
 
 .scrollToTop {
-    width: 40px;
-    height: 40px;
+    width: 50px;
+    height: 50px;
     position: fixed;
     bottom: 20px;
     right: 20px;
@@ -489,7 +489,7 @@ button {
 }
 
 .scrollToTop span {
-    margin-top: 6px;
+    margin-top: 9px;
 }
 
 .showScrollTop {
