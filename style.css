@@ -688,14 +688,6 @@ h3 {
     box-shadow: 0px 0px 0px #000000;
 }
 
-h1 {
-    color: #333333!important;
-}
-
-h4 {
-    color: #333333!important;
-}
-
 .icons {
     margin-bottom: 14px;
     margin-top: 24px;
@@ -721,7 +713,7 @@ h4 {
 
 .bold-link {
     font-weight: 900;
-    text-decoration: underline!important;
+    text-decoration: none;
 }
 
 .bgc-white {
@@ -746,12 +738,6 @@ h4 {
 
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
-}
-.ltc-white {
-    color: #FFFFFF!important;
-}
-.ltc-white:hover {
-    color: #cccccc!important;
 }
 
 .ltc-atomic-tangerine {
