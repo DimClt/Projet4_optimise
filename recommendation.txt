@@ -1,0 +1,14 @@
+Afin d'améliorer le SEO et l'accessibilité du site je propose de découper les diverses modifications en 10 phases. Chacune de ses phases peut avoir un impact sur le SEO, l'accessibilité ou les performances. 
+En première parties supprimer les mauvaise pratiques utilisé (spam de mots-clefs en petite taille, spam dans les diverses description de contenus).
+Dans un second temps faire les premières modification de la balise <head> et <html> avec l'ajout de la lang, correction des meta (suppression de la meta keyword, ajout contenu meta)
+ajout d'un contenu dans la meta description, Ajout d'un <title>, correction de l'ordre sémenthique (h2 manquant), nettoyage des liens (spam, incohérent, douteux..).
+Dans la troisième partie, faire l'optimisation des images. Supprimer les textes en images pour les intègrer dans le dans le html directement, redimensionner les images qui ne sont pas optimiser,
+changer le format des images qui peuvent être optimisé puis les compresser. Corriger les diverses liens d'images avec le nouveau format.
+En quatrième on améliore l'accessiblité "coté back" (la partie html), grace a l'ajout de description sur les images et d'un attribut /aria-label sur les divers liens en images et formulaire.
+En cinquième partie on continue à optimiser l'accessibilité mais "coté front" (partie css) en corrigant les divers contrast et tailles de polices afin de rendre le contenu plus visible et agréable a lire pour tous.
+Ensuite pour la sixième partie, on optimise le responcive du site afin de le rendre fluide et simple d'accès sur toutes les tailles d'écran.
+Dans la septième phase on optimise le css, on corrige les balise <link>, on ajoute un attribut media. On supprime les parties inutilisé ensuite on compress le code.
+En huitième, on s'occupe du JavaScript comme pour le css, on diffère les script qui peuvent l'être, on supprime les parties inutilisé et on compress le code aussi. Ceci améliorera les performances du site.
+En neuvième partie, on ajoute la meta robots afin de rendre la page indexable par les moteurs de recherches. Ainsi que la mise en cache navigateur de certain élément afin d'accélerer le chargement de la page.
+Dans la denrière phase on instal les outils de google analytics et google search consol afin de pouvoir suivre l'évolution de l'optimisation SEO et faire des mises à jour afin de garder le SEO optimisé.
+
